@@ -15,6 +15,6 @@ print(greet("World"))
 print(greet("Buru"))
 print(greet("Git0"))
 
-r = requests.get("https://coreyms.com")
+r = requests.get("https://google.com")
 print(r.status_code)
 print(r.ok)
